@@ -8,7 +8,7 @@ Este proyecto, fue elaborado en base a las necesidades del cliente, agregando fu
 
 ## Ing.Edgar Fabián Ramírez Silvestre.
 ## Ing. Jorge de Jesús Pérez López.
-## Luis Xavier Monroy Guitérrez.
+## Ing. Luis Xavier Monroy Guitérrez.
 
 ### Visita mi portafolio web para ver más proyectos y encontrar más información: [Portafolio Web](https://edgarfabian.netlify.app/)
 
